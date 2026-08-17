@@ -12,7 +12,8 @@
 
 6. Comment gérez-vous le stress ou les conflits ?    
 
-7. Avez-vous des questions pour nous ? (au moins 2 à préparer)
+7. Donnez un exemple d’un défi relevé dans un projet.  
+
 
 
 ## Ma stratégie personnelle
@@ -21,11 +22,18 @@
 2.     
 3.      
 
+## Recherche sur l'entreprise
+Choisissez une entreprise, nous simulerons que c'est elle qui vous passe en entrevue la semaine prochaine.
 
-## Recherche sur les entreprises
+Nom de l'entreprise: 
+Domaine: 
+Mes impressions: 
+Nom d'un projet intéressant et pourquoi: 
+Valeur commune: 
 
-Ajoutez les différentes entreprises que vous rencontrerez au tableau. 
+## Préparation des questions à poser
+Préparez des questions pour l'entreprise qui vous passe en entrevue.
+*(au moins 2 questions pertinentes à préparer pour la simulation)*  
 
-| Entreprise | Domaine | Impression générale | Nom d'un projet intéressant, 2-3 mots clés de pourquoi | Valeur commune | 
-|------------|---------------|---------------------|--------------|-------------------|
-| Exemple    | web     | Positive            | Projet Y, innovant, créatif | Collaboration  | 
+1. 
+2. 
