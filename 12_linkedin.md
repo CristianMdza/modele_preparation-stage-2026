@@ -27,3 +27,7 @@ Exemple de phrase:
 2. Utilise une IA et demande lui des variantes de formulation. Copie-les ici:   
 
 3. Mélange les variantes que tu préfères afin d'obtenir un résumé Linkedin personnalisé. Inscris-le ici: 
+
+
+# Première publication
+Publier est une bonne façon d'attirer l'attention des employeurs sur toi. Ainsi, publie ton Demo reel comme première publication! 
