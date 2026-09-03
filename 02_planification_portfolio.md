@@ -20,7 +20,7 @@ Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 - [x] Lightroom
 - [ ] Premiere
 - [ ] Media Encoder
-- [ ] After Effects
+- [x] After Effects
 - [x] Davinci Resolve
 - [x] Maya
 - [x] Unity
