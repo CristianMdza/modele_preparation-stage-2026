@@ -48,7 +48,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 # Projet 1 
 ### Nom de votre projet:     
 ## Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
+#### Réalisé dans le cadre du cours:        
 Individuel ou en équipe:     
 Nom de vos coéquipiers:      
 Votre ou vos rôle(s) dans le projet:     
