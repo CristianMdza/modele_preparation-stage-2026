@@ -46,18 +46,24 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de la création numérique, où je pourrai utiliser mes compétences en design graphique et en modélisation 3D.
 
 # Projet 1 
-- #### Nom de votre projet:     
+- #### Nom de votre projet: Autoportrait   
 - #### Mention académique ou personnel:     
-- #### Réalisé dans le cadre du cours:        
-- #### Individuel ou en équipe:     
+- #### Réalisé dans le cadre du cours: Illustration numérique    
+- #### Individuel ou en équipe: Individuel     
 - #### Nom de vos coéquipiers:      
 - #### Votre ou vos rôle(s) dans le projet:     
-- #### Logiciels ou techniques utilisées:    
+- #### Logiciels ou techniques utilisées: Adobe Photoshop   
 - #### Catégorie du projet:      
 - #### Description courte du projet (Résumé en 1 phrase):     
 - #### Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
 - #### Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
-- #### Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+- #### Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):
+<p align="center">
+  <img src="images/projet1-1.jpg" width="200">
+  <img src="images/projet1-2.jpg" width="200">
+  <img src="images/projet1-3.jpg" width="200">
+  <img src="images/projet1-4.jpg" width="200">
+</p>    
 
 # Projet 2 
 - #### Nom de votre projet:     
