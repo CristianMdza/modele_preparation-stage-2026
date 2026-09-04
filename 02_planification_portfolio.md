@@ -46,8 +46,8 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de la création numérique, où je pourrai utiliser mes compétences en design graphique et en modélisation 3D.
 
 # Projet 1 
- #### Nom de votre projet:     
-#### Mention académique ou personnel:     
+- #### Nom de votre projet:     
+> #### Mention académique ou personnel:     
 #### Réalisé dans le cadre du cours:        
 #### Individuel ou en équipe:     
 #### Nom de vos coéquipiers:      
