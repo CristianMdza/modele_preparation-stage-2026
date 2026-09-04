@@ -103,7 +103,7 @@ Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 # Projet 5 (Optionnel)
-Nom de votre projet:     
+*Nom de votre projet:*     
 Mention académique ou personnel:     
 Réalisé dans le cadre du cours:        
 Individuel ou en équipe:     
