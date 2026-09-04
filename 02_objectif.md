@@ -27,4 +27,6 @@ Je souhaite obtenir un poste de X dans le domaine X, où je pourrai utiliser mes
 
 > Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de la création numérique, où je pourrai utiliser mes compétences en design graphique et en modélisation 3D.
 
-3. Mélange les variantes que tu préfères afin d'obtenir un objectif de carrière personnalisé. Inscris-le ici: 
+3. Mélange les variantes que tu préfères afin d'obtenir un objectif de carrière personnalisé. Inscris-le ici:
+
+> Je souhaite travailler dans le domaine de la création numérique, où je pourrai mettre à profit mes compétences en design graphique et en modélisation 2D et 3D pour concevoir des personnages, des environnements et différents contenus visuels.
