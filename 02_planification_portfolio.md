@@ -59,13 +59,19 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**    
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
 <p align="center">
-  <img src="docs/images/autoportrait/Moodboard_autoportrait.jpg" width="500">
-  <img src="docs/images/autoportrait/Moodboard_signature.jpg" width="500">
+  <img src="docs/images/autoportrait/Moodboard_autoportrait.jpg" width="300">
+  <img src="docs/images/autoportrait/Moodboard_signature.jpg" width="300">
+  <img src="docs/images/autoportrait/Execution_signature_cristian_mendoza.jpg" width="300">
 </p>
 <p align="center">
-  <img src="docs/images/autoportrait/Moodboard_autoportrait.jpg" width="500">
-  <img src="docs/images/autoportrait/Moodboard_autoportrait.jpg" width="500">
-  <img src="docs/images/autoportrait/Moodboard_autoportrait.jpg" width="500">
+  <img src="docs/images/autoportrait/Execution_01_autoportrait.jpg" width="300">
+  <img src="docs/images/autoportrait/Execution_02_autoportrait.jpg" width="300">
+  <img src="docs/images/autoportrait/Execution_03_autoportrait.jpg" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/autoportrait/Execution_04_autoportrait.jpg" width="300">
+  <img src="docs/images/autoportrait/Execution_05_autoportrait.jpg" width="300">
+  <img src="docs/images/autoportrait/Execution_06_autoportrait.jpg" width="300">
 </p> 
 
 # ***Projet 2*** 
