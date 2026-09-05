@@ -50,7 +50,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Mention académique ou personnel:**     
 - **Réalisé dans le cadre du cours:** Illustration numérique    
 - **Individuel ou en équipe:** Individuel     
-- **Nom de vos coéquipiers:**      
+- **Nom de vos coéquipiers:** Aucun     
 - **Votre ou vos rôle(s) dans le projet:**     
 - **Logiciels ou techniques utilisées:** Adobe Photoshop - art vectoriel  
 - **Catégorie du projet:**      
@@ -79,7 +79,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Mention académique ou personnel:**     
 - **Réalisé dans le cadre du cours:** Illustration numérique      
 - **Individuel ou en équipe:** Individuel   
-- **Nom de vos coéquipiers:**      
+- **Nom de vos coéquipiers:** Aucun     
 - **Votre ou vos rôle(s) dans le projet:**     
 - **Logiciels ou techniques utilisées:** Adobe Photoshop - art vectoriel  
 - **Catégorie du projet:**      
@@ -143,13 +143,13 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 </p>   
 
 # ***Projet 4***
-- **Nom de votre projet:**     
+- **Nom de votre projet:** « Noctar »    
 - **Mention académique ou personnel:**     
-- **Réalisé dans le cadre du cours:**        
-- **Individuel ou en équipe:**     
-- **Nom de vos coéquipiers:**      
+- **Réalisé dans le cadre du cours:** Modélisation 3D     
+- **Individuel ou en équipe:** Individuel    
+- **Nom de vos coéquipiers:** Aucun    
 - **Votre ou vos rôle(s) dans le projet:**     
-- **Logiciels ou techniques utilisées:**    
+- **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 et Microsoft PowerPoint v16.88.1 -   
 - **Catégorie du projet:**      
 - **Description courte du projet (Résumé en 1 phrase):**     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
@@ -160,19 +160,14 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
   <img src="docs/images/noctar/univers_personnage_noctar.png" width="300">
 </p>
 <p align="center">
-  <img src="docs/images/chambre_farfelue/vue_gauche.png" width="300">
-  <img src="docs/images/chambre_farfelue/vue_front.png" width="300">
-  <img src="docs/images/chambre_farfelue/vue_droite.png" width="300">
-</p>
-<p align="center">
   <img src="docs/images/noctar/Nouvelle_posture_02.jpg" width="300">
-  <img src="docs/images/noctar/Nouvelle_posture_03.jpg" width="300">
   <img src="docs/images/noctar/Nouvelle_posture_04.jpg" width="300">
+  <img src="docs/images/noctar/Nouvelle_posture_03.jpg" width="300">
 </p>
 <p align="center">
   <img src="docs/images/noctar/Posture_t_01.jpg" width="300">
-  <img src="docs/images/noctar/Posture_t_02.jpg" width="300">
   <img src="docs/images/noctar/Posture_t_03.jpg" width="300">
+  <img src="docs/images/noctar/Posture_t_02.jpg" width="300">
 </p> 
 
 # ***Projet 5 (Optionnel)***
