@@ -125,28 +125,18 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
 <p align="center">
-  <img src="docs/images/generique/Moodboard_generique.jpg" width="300">
+  <img src="docs/images/chambre_farfelue/Moodboard_chambre.png" width="300">
 </p>
 <p align="center">
-  <img src="docs/images/generique/Execution_generique_01.jpg" width="300">
-  <img src="docs/images/generique/Execution_generique_02.jpg" width="300">
-  <img src="docs/images/generique/Execution_generique_03.jpg" width="300">
+  <img src="docs/images/chambre_farfelue/vue_gauche.png" width="300">
+  <img src="docs/images/chambre_farfelue/vue_front.png" width="300">
+  <img src="docs/images/chambre_farfelue/vue_droite.png" width="300">
 </p>
 <p align="center">
-  <img src="docs/images/generique/Execution_generique_04.jpg" width="300">
-  <img src="docs/images/generique/Execution_generique_05.jpg" width="300">
-  <img src="docs/images/generique/Execution_generique_06.jpg" width="300">
-</p>
-<p align="center">
-  <img src="docs/images/generique/Execution_generique_07.jpg" width="300">
-  <img src="docs/images/generique/Execution_generique_08.jpg" width="300">
-  <img src="docs/images/generique/Execution_generique_09.jpg" width="300">
-</p>
-<p align="center">
-  <img src="docs/images/generique/Execution_generique_10.jpg" width="300">
-  <img src="docs/images/generique/Execution_generique_11.jpg" width="300">
-  <img src="docs/images/generique/Execution_generique_12.jpg" width="300">
-</p>     
+  <img src="docs/images/chambre_farfelue/piece_vue_zoom_camera_gauche_rendu.jpg" width="300">
+  <img src="docs/images/chambre_farfelue/piece_vue_zoom_camera_front_rendu.jpg" width="300">
+  <img src="docs/images/chambre_farfelue/piece_front_rendu.jpg" width="300">
+</p>   
 
 # ***Projet 4***
 - **Nom de votre projet:**     
