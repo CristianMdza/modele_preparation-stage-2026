@@ -154,7 +154,26 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Description courte du projet (Résumé en 1 phrase):**     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
-- **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**     
+- **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
+  <p align="center">
+  <img src="docs/images/noctar/Moodboard_noctar.png" width="300">
+  <img src="docs/images/noctar/univers_personnage_noctar.png" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/chambre_farfelue/vue_gauche.png" width="300">
+  <img src="docs/images/chambre_farfelue/vue_front.png" width="300">
+  <img src="docs/images/chambre_farfelue/vue_droite.png" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/noctar/Nouvelle_posture_02.jpg" width="300">
+  <img src="docs/images/noctar/Nouvelle_posture_03.jpg" width="300">
+  <img src="docs/images/noctar/Nouvelle_posture_04.jpg" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/noctar/Posture_t_01.jpg" width="300">
+  <img src="docs/images/noctar/Posture_t_02.jpg" width="300">
+  <img src="docs/images/noctar/Posture_t_03.jpg" width="300">
+</p> 
 
 # ***Projet 5 (Optionnel)***
 - **Nom de votre projet:**     
