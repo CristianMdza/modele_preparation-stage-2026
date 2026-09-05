@@ -1,4 +1,4 @@
-# Compétences
+# ***Compétences***
 Cochez les compétences que vous aimeriez utiliser en stage. Ajoutez-en au besoin.:     
 - [x] Designer, coder et publier des sites Web dynamiques    
 - [x] Réaliser et tourner des vidéos    
@@ -12,7 +12,7 @@ Cochez les compétences que vous aimeriez utiliser en stage. Ajoutez-en au besoi
 - [x] Collaborer avec diverses disciplines artistiques ou interdisciplinaires    
 
 
-# Logiciels 
+# ***Logiciels*** 
 Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:     
 - [x] Visual Studio Code
 - [ ] Photoshop
@@ -31,7 +31,7 @@ Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 - [ ] MadMapper
 - [x] Microsoft Teams
 
-# Langage de programmation
+# ***Langage de programmation***
 Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:    
 - [x] HTML
 - [x] CSS
@@ -42,7 +42,7 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 - [ ] C++ (Arduino)
 - [ ] Connaissance de systèmes de gestion de contenu (CMS)
 
-# Objectif de carrière
+# ***Objectif de carrière***
 Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de la création numérique, où je pourrai utiliser mes compétences en design graphique et en modélisation 3D.
 
 # ***Projet 1*** 
@@ -64,7 +64,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
   <img src="../../illustration_numerique/autoportrait/1_medias/Moodboard_autoportrait.jpg" width="200">
 </p>    
 
-# Projet 2 
+# ***Projet 2*** 
 - **Nom de votre projet:**     
 - **Mention académique ou personnel:**     
 - **Réalisé dans le cadre du cours:**        
@@ -79,7 +79,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**      
 
 
-# Projet 3 
+# ***Projet 3*** 
 - **Nom de votre projet:**     
 - **Mention académique ou personnel:**     
 - **Réalisé dans le cadre du cours:**        
@@ -93,7 +93,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**     
 
-# Projet 4
+# ***Projet 4***
 - **Nom de votre projet:**     
 - **Mention académique ou personnel:**     
 - **Réalisé dans le cadre du cours:**        
@@ -107,7 +107,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**     
 
-# Projet 5 (Optionnel)
+# ***Projet 5 (Optionnel)***
 - **Nom de votre projet:**     
 - **Mention académique ou personnel:**     
 - **Réalisé dans le cadre du cours:**        
@@ -121,7 +121,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**     
 
-# Projet 6 (Optionnel)
+# ***Projet 6 (Optionnel)***
 - **Nom de votre projet:**     
 - **Mention académique ou personnel:**     
 - **Réalisé dans le cadre du cours:**        
@@ -136,7 +136,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**       
 
 
-# Processus de création
+# ***Processus de création***
 - **Sélectionnez un de vos projets et insérez son processus de création. À l'aide d'images et de texte vous devez nous expliquer le processus de création étape par étape de votre projet.**
 
 
