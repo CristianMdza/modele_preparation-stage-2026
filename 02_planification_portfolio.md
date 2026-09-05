@@ -123,7 +123,30 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Description courte du projet (Résumé en 1 phrase):**     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
-- **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**     
+- **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
+<p align="center">
+  <img src="docs/images/generique/Moodboard_generique.jpg" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/generique/Execution_generique_01.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_02.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_03.jpg" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/generique/Execution_generique_04.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_05.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_06.jpg" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/generique/Execution_generique_07.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_08.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_09.jpg" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/generique/Execution_generique_10.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_11.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_12.jpg" width="300">
+</p>     
 
 # ***Projet 4***
 - **Nom de votre projet:**     
