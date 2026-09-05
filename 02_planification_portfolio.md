@@ -61,7 +61,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 <p align="center">
   <img src="images/projet1-1.jpg" width="200">
   <img src="images/projet1-2.jpg" width="200">
-  <img src="../../illustration_numerique/autoportrait/1_medias/Moodboard_autoportrait.jpg" width="200">
+  <img src="docs/illustration_numerique/autoportrait/1_medias/Moodboard_autoportrait.jpg" width="200">
 </p>    
 
 # ***Projet 2*** 
