@@ -112,13 +112,17 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 </p>
 
 # ***Projet 3*** 
-- **Nom de votre projet:**     
+- **Nom de votre projet:** « Chambre farfelue »    
 - **Mention académique ou personnel:**     
-- **Réalisé dans le cadre du cours:**        
-- **Individuel ou en équipe:**     
-- **Nom de vos coéquipiers:**      
+- **Réalisé dans le cadre du cours:** Modélisation 3D      
+- **Individuel ou en équipe:** En équipe
+- **Nom de vos coéquipiers:**
+  - Cristian Mendoza
+  - Jonathan Crevier
+  - Mohamed Sadki
+  - Jad Saloumi    
 - **Votre ou vos rôle(s) dans le projet:**     
-- **Logiciels ou techniques utilisées:**    
+- **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 et Microsoft PowerPoint v16.88.1 - 
 - **Catégorie du projet:**      
 - **Description courte du projet (Résumé en 1 phrase):**     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
