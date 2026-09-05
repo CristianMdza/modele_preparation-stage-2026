@@ -134,7 +134,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 </p>
 <p align="center">
   <img src="docs/images/chambre_farfelue/piece_vue_zoom_camera_gauche_rendu.jpg" width="300">
-  <img src="docs/images/chambre_farfelue/piece_vue_zoom_camera_front_rendu.jpg" width="300">
+  <img src="docs/images/chambre_farfelue/piece_vue_zoom_front_camera_rendu.jpg" width="300">
   <img src="docs/images/chambre_farfelue/piece_front_rendu.jpg" width="300">
 </p>   
 
