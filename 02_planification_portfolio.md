@@ -61,7 +61,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 <p align="center">
   <img src="docs/images/autoportrait/Moodboard_autoportrait.jpg" width="300">
   <img src="docs/images/autoportrait/Moodboard_signature.jpg" width="300">
-  <img src="docs/images/autoportrait/Execution_signature_cristian_mendoza.jpg" width="300" border-radius: 8px;">
+  <img src="docs/images/autoportrait/Execution_signature_cristian_mendoza.jpg" width="300"; border-radius: 8px;">
 </p>
 <p align="center">
   <img src="docs/images/autoportrait/Execution_01_autoportrait.jpg" width="300">
