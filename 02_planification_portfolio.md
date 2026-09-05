@@ -46,13 +46,13 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de la création numérique, où je pourrai utiliser mes compétences en design graphique et en modélisation 3D.
 
 # ***Projet 1*** 
-- **Nom de votre projet:** Autoportrait   
+- **Nom de votre projet:** « Autoportrait »   
 - **Mention académique ou personnel:**     
 - **Réalisé dans le cadre du cours:** Illustration numérique    
 - **Individuel ou en équipe:** Individuel     
 - **Nom de vos coéquipiers:**      
 - **Votre ou vos rôle(s) dans le projet:**     
-- **Logiciels ou techniques utilisées:** Adobe Photoshop   
+- **Logiciels ou techniques utilisées:** Adobe Photoshop - art vectoriel  
 - **Catégorie du projet:**      
 - **Description courte du projet (Résumé en 1 phrase):**     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
@@ -75,19 +75,41 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 </p> 
 
 # ***Projet 2*** 
-- **Nom de votre projet:**     
+- **Nom de votre projet:** « Une célébrité emprisonnée »   
 - **Mention académique ou personnel:**     
-- **Réalisé dans le cadre du cours:**        
-- **Individuel ou en équipe:**     
+- **Réalisé dans le cadre du cours:** Illustration numérique      
+- **Individuel ou en équipe:** Individuel   
 - **Nom de vos coéquipiers:**      
 - **Votre ou vos rôle(s) dans le projet:**     
-- **Logiciels ou techniques utilisées:**    
+- **Logiciels ou techniques utilisées:** Adobe Photoshop - art vectoriel  
 - **Catégorie du projet:**      
 - **Description courte du projet (Résumé en 1 phrase):**     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
-- **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**      
-
+- **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
+<p align="center">
+  <img src="docs/images/generique/Moodboard_generique.jpg" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/generique/Execution_generique_01.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_02.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_03.jpg" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/generique/Execution_generique_04.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_05.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_06.jpg" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/generique/Execution_generique_07.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_08.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_09.jpg" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/generique/Execution_generique_10.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_11.jpg" width="300">
+  <img src="docs/images/generique/Execution_generique_12.jpg" width="300">
+</p>
 
 # ***Projet 3*** 
 - **Nom de votre projet:**     
