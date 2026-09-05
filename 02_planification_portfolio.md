@@ -161,8 +161,8 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 </p>
 <p align="center">
   <img src="docs/images/noctar/Nouvelle_posture_02.jpg" width="300">
-  <img src="docs/images/noctar/Nouvelle_posture_03.jpg" width="300">
   <img src="docs/images/noctar/Nouvelle_posture_04.jpg" width="300">
+  <img src="docs/images/noctar/Nouvelle_posture_03.jpg" width="300">
 </p>
 <p align="center">
   <img src="docs/images/noctar/Posture_t_01.jpg" width="300">
