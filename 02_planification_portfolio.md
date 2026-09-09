@@ -233,7 +233,8 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Description courte du projet (Résumé en 1 phrase):**     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
-- **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**       
+- **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
+[▶️ Voir la vidéo](docs/videos/animation_generative/animation_generative_3d.mp4)       
 
 
 # ***Processus de création***
