@@ -47,11 +47,12 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 
 # ***Projet 1*** 
 - **Nom de votre projet:** « Autoportrait »   
-- **Mention académique ou personnel:**     
+- **Mention académique ou personnel:** Académique    
 - **Réalisé dans le cadre du cours:** Illustration numérique    
 - **Individuel ou en équipe:** Individuel     
 - **Nom de vos coéquipiers:** Aucun     
-- **Votre ou vos rôle(s) dans le projet:**     
+- **Votre ou vos rôle(s) dans le projet:**
+- **Période/Année de création:** 29 août au 31 octobre (Session d’automne) / 2023   
 - **Logiciels ou techniques utilisées:** Adobe Photoshop - art vectoriel  
 - **Catégorie du projet:**      
 - **Description courte du projet (Résumé en 1 phrase):**     
@@ -76,11 +77,12 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 
 # ***Projet 2*** 
 - **Nom de votre projet:** « Une célébrité emprisonnée »   
-- **Mention académique ou personnel:**     
+- **Mention académique ou personnel:** Académique   
 - **Réalisé dans le cadre du cours:** Illustration numérique      
 - **Individuel ou en équipe:** Individuel   
 - **Nom de vos coéquipiers:** Aucun     
-- **Votre ou vos rôle(s) dans le projet:**     
+- **Votre ou vos rôle(s) dans le projet:**
+- **Période/Année de création:** 07 novembre au 05 décembre (Session d’automne) / 2023    
 - **Logiciels ou techniques utilisées:** Adobe Photoshop - art vectoriel  
 - **Catégorie du projet:**      
 - **Description courte du projet (Résumé en 1 phrase):**     
@@ -113,7 +115,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 
 # ***Projet 3*** 
 - **Nom de votre projet:** « Chambre farfelue »    
-- **Mention académique ou personnel:**     
+- **Mention académique ou personnel:** Académique    
 - **Réalisé dans le cadre du cours:** Modélisation 3D      
 - **Individuel ou en équipe:** En équipe
 - **Nom de vos coéquipiers:**
@@ -121,7 +123,8 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
   - Jonathan Crevier
   - Mohamed Sadki
   - Jad Saloumi    
-- **Votre ou vos rôle(s) dans le projet:**     
+- **Votre ou vos rôle(s) dans le projet:**
+- **Période/Année de création:** 02 octobre au 06 novembre (Session d’automne) / 2024   
 - **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 et Microsoft PowerPoint v16.88.1 - 
 - **Catégorie du projet:**      
 - **Description courte du projet (Résumé en 1 phrase):**     
@@ -144,11 +147,12 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 
 # ***Projet 4***
 - **Nom de votre projet:** « Noctar »    
-- **Mention académique ou personnel:**     
+- **Mention académique ou personnel:** Académique     
 - **Réalisé dans le cadre du cours:** Modélisation 3D     
 - **Individuel ou en équipe:** Individuel    
 - **Nom de vos coéquipiers:** Aucun    
-- **Votre ou vos rôle(s) dans le projet:**     
+- **Votre ou vos rôle(s) dans le projet:**
+- **Période/Année de création:** 20 novembre au 04 décembre (Session d’automne) / 2024   
 - **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 et Microsoft PowerPoint v16.88.1 -   
 - **Catégorie du projet:**      
 - **Description courte du projet (Résumé en 1 phrase):**     
@@ -170,14 +174,15 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
   <img src="docs/images/noctar/Posture_t_02.jpg" width="300">
 </p> 
 
-# ***Projet 5 (Optionnel)***
-- **Nom de votre projet:**     
-- **Mention académique ou personnel:**     
-- **Réalisé dans le cadre du cours:**        
-- **Individuel ou en équipe:**     
-- **Nom de vos coéquipiers:**      
-- **Votre ou vos rôle(s) dans le projet:**     
-- **Logiciels ou techniques utilisées:**    
+# ***Projet 5 (Optionnel)*** 
+- **Nom de votre projet:** « L’étrange paradis émergent »     
+- **Mention académique ou personnel:** Académique    
+- **Réalisé dans le cadre du cours:** Animation 3D       
+- **Individuel ou en équipe:** Individuel    
+- **Nom de vos coéquipiers:** Aucun     
+- **Votre ou vos rôle(s) dans le projet:**
+- **Période/Année de création:** 13 février au 8 mai (Session d’hiver) / 2025    
+- **Logiciels ou techniques utilisées:**  Autodesk Maya v2023.3.1 - DaVinci Resolve v18.6 - Microsoft PowerPoint v16.88.1  
 - **Catégorie du projet:**      
 - **Description courte du projet (Résumé en 1 phrase):**     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
@@ -186,12 +191,13 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 [▶️ Voir la vidéo](docs/images/etrange_paradis_emergent/etrange_paradis_emergent.mp4)   
 
 # ***Projet 6 (Optionnel)***
-- **Nom de votre projet:**     
-- **Mention académique ou personnel:**     
-- **Réalisé dans le cadre du cours:**        
-- **Individuel ou en équipe:**     
-- **Nom de vos coéquipiers:**      
-- **Votre ou vos rôle(s) dans le projet:**     
+- **Nom de votre projet:** Animation générative     
+- **Mention académique ou personnel:** Académique    
+- **Réalisé dans le cadre du cours:** Animation 3D       
+- **Individuel ou en équipe:** Individuel     
+- **Nom de vos coéquipiers:** Aucun     
+- **Votre ou vos rôle(s) dans le projet:**
+- **Période/Année de création:** 17 février au 11 mars (Session d’hiver) / 2025    
 - **Logiciels ou techniques utilisées:**    
 - **Catégorie du projet:**      
 - **Description courte du projet (Résumé en 1 phrase):**     
