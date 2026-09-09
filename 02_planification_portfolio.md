@@ -217,7 +217,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 <p align="center">
   <img src="docs/images/etrange_paradis_emergent/image_16.jpg" width="300">
   <img src="docs/images/etrange_paradis_emergent/image_17.jpg" width="300">
-  <img src="docs/images/etrange_paradis_emergent/logo_TIM_style_paradis.png" width="300">
+  <img src="docs/images/etrange_paradis_emergent/logo_TIM_theme_paradis.png" width="300">
 </p>
 
 # ***Projet 6 (Optionnel)***
