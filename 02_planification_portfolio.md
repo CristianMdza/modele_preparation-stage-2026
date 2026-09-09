@@ -234,8 +234,27 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
-[▶️ Voir la vidéo](docs/videos/animation_generative/animation_generative_3d.mp4)       
-
+[▶️ Voir la vidéo](docs/videos/animation_generative/animation_generative_3d.mp4)
+<p align="center">
+  <img src="docs/images/animation_generative/image_01.png" width="300">
+  <img src="docs/images/animation_generative/image_02.png" width="300">
+  <img src="docs/images/animation_generative/image_03.png" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/animation_generative/image_04.png" width="300">
+  <img src="docs/images/animation_generative/image_05.png" width="300">
+  <img src="docs/images/animation_generative/image_06.png" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/animation_generative/image_07.png" width="300">
+  <img src="docs/images/animation_generative/image_08.png" width="300">
+  <img src="docs/images/animation_generative/image_09.png" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/animation_generative/image_10.png" width="300">
+  <img src="docs/images/animation_generative/image_11.png" width="300">
+  <img src="docs/images/animation_generative/image_12.png" width="300">
+</p>
 
 # ***Processus de création***
 - **Sélectionnez un de vos projets et insérez son processus de création. À l'aide d'images et de texte vous devez nous expliquer le processus de création étape par étape de votre projet.**
