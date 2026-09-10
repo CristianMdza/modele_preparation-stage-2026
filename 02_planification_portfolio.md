@@ -151,19 +151,19 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 
 # ***Processus de création « Chambre farfelue »***
 
-- **Étape 1 : Recherche d'idées et direction artistique (Moodboards)**
+- **Étape 1 : Recherche d'idées et direction artistique (Moodboards)**:
 Pour lancer le projet, nous avons défini l'univers visuel de notre “Chambre farfelue” en créant un moodboard global pour établir la base du style. Chacun a ensuite fait des recherches et conçu des moodboards individuels pour ses objets assignés.
 
-- **Étape 2 : Esquisse globale et présentation de concept (PowerPoint)**
+- **Étape 2 : Esquisse globale et présentation de concept (PowerPoint)**:
 Avant de toucher au logiciel 3D, on a fait un croquis 2D de la chambre pour placer nos 12 objets et bien structurer l'espace. On a ensuite tout regroupé dans une présentation PowerPoint avec nos moodboards pour présenter le concept à la prof et faire valider notre direction artistique.
 
-- **Étape 3 : Modélisation 3D individuelle dans Autodesk Maya**
+- **Étape 3 : Modélisation 3D individuelle dans Autodesk Maya**:
 Nous nous sommes ensuite réparti la modélisation des assets sous Autodesk Maya. Pour ma part, j'ai modélisé trois éléments centraux du décor : le feu de circulation suspendu, la porte futuriste ainsi que la toilette détournée en table de nuit, en veillant à respecter le niveau de détail et la géométrie demandés.
 
-- **Étape 4 : Assemblage et préparation de la scène**
+- **Étape 4 : Assemblage et préparation de la scène**:
 Une fois nos modèles 3D terminés, nous avons rassemblé tous nos éléments afin de vérifier l'assemblage global de la chambre, corriger les proportions entre les objets et nous assurer que la scène était prête pour l'exportation vers le moteur de rendu.
 
-- **Étape 5 : Intégration, éclairage et cadrage dans Unity**
+- **Étape 5 : Intégration, éclairage et cadrage dans Unity**:
 Enfin, nous avons configuré l'éclairage, les caméras et les paramètres de rendu dans Unity pour produire les images finales en haute définition.
 
 # ***Projet 4***
