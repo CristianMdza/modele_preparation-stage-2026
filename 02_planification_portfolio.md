@@ -123,13 +123,17 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
   - Jonathan Crevier
   - Mohamed Sadki
   - Jad Saloumi    
-- **Votre ou vos rôle(s) dans le projet:**
+- **Votre ou vos rôle(s) dans le projet:** Modélisateurs 3D / Concepteurs d'environnement
+  - Cristian Mendoza (Feu de circulation, porte, toilette)
+  - Jonathan Crevier (Étagère, sculpture, lampe)
+  - Mohamed Sadki (Bouteilles, sofa, plante)
+  - Jad Saloumi (Lit, œil décoratif, structure de la chambre)
 - **Période/Année de création:** 02 octobre au 06 novembre (Session d’automne) / 2024   
 - **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 et Microsoft PowerPoint v16.88.1 - 
-- **Catégorie du projet:**      
-- **Description courte du projet (Résumé en 1 phrase):**     
-- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
-- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
+- **Catégorie du projet:** Modélisation 3D / Conception d'environnement / Art 3D     
+- **Description courte du projet (Résumé en 1 phrase):** Conception collaborative d’un environnement intérieur 3D irréel et humoristique où des objets du quotidien sont détournés de leur fonction initiale.     
+- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** L'enseignante demandait de concevoir en équipe une scène 3D originale et surréaliste composée d'au moins trois objets modélisés par personne. Le projet exigeait d'élaborer une présentation de concept (moodboards, esquisse globale, montage 2D, rendus), de modéliser l'ensemble des éléments, puis d'importer le tout dans le moteur Unity pour configurer l'éclairage, les caméras et générer les rendus finaux.    
+- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** J'ai modélisé un feu de circulation, une porte futuriste et une toilette faisant office de table de nuit dans Autodesk Maya, tout en participant au moodboard collectif et à l'esquisse de la pièce. J'ai ensuite collaboré à l'intégration de la scène dans Unity pour configurer l'éclairage, cadrer les caméras et produire les rendus finaux.   
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
 <p align="center">
   <img src="docs/images/chambre_farfelue/Moodboard_chambre.png" width="300">
