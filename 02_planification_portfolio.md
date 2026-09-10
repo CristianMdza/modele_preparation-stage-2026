@@ -149,7 +149,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
   <img src="docs/images/chambre_farfelue/piece_front_rendu.jpg" width="300">
 </p>
 
-# ***Processus de création***
+# ***Processus de création « Chambre farfelue »***
 
 - **Étape 1 : Recherche d'idées et direction artistique (Moodboards)**
 Pour lancer le projet, nous avons défini l'univers visuel de notre “Chambre farfelue” en créant un moodboard global pour établir la base du style. Chacun a ensuite fait des recherches et conçu des moodboards individuels pour ses objets assignés.
