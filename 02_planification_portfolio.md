@@ -51,13 +51,13 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Réalisé dans le cadre du cours:** Illustration numérique    
 - **Individuel ou en équipe:** Individuel     
 - **Nom de vos coéquipiers:** Aucun     
-- **Votre ou vos rôle(s) dans le projet:**
+- **Votre ou vos rôle(s) dans le projet:** Illustrateur / Designer graphique
 - **Période/Année de création:** 29 août au 31 octobre (Session d’automne) / 2023   
-- **Logiciels ou techniques utilisées:** Adobe Photoshop - art vectoriel  
-- **Catégorie du projet:**      
-- **Description courte du projet (Résumé en 1 phrase):**     
-- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
-- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**    
+- **Logiciels ou techniques utilisées:** Adobe Photoshop - Art vectoriel  
+- **Catégorie du projet:** Illustration numérique / Art vectoriel      
+- **Description courte du projet (Résumé en 1 phrase):** Création d'un autoportrait en art vectoriel où je présente mon univers et ma personnalité à travers mes passions, ma musique et mon quotidien.    
+- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait de concevoir deux moodboards de recherche d'inspiration, intégrant des artistes de référence, des palettes de couleurs et des images de style. L'objectif était ensuite d'utiliser ces recherches pour concevoir un autoportrait personnalisé accompagné de notre propre signature visuelle.    
+- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** À l'aide de couleurs vives et de contrastes sur Adobe Photoshop, j'ai créé une série d'illustrations vectorielles représentant des éléments clés de ma vie comme toute ma première auto, mon Setup DJ, le ski, le soccer, Montréal et le chanteur Feid. J'ai ensuite réuni toutes ces pièces pour composer mon autoportrait et mon identité visuelle.   
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
 <p align="center">
   <img src="docs/images/autoportrait/Moodboard_autoportrait.jpg" width="300">
@@ -81,13 +81,13 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Réalisé dans le cadre du cours:** Illustration numérique      
 - **Individuel ou en équipe:** Individuel   
 - **Nom de vos coéquipiers:** Aucun     
-- **Votre ou vos rôle(s) dans le projet:**
+- **Votre ou vos rôle(s) dans le projet:** Illustrateur / Designer graphique
 - **Période/Année de création:** 07 novembre au 05 décembre (Session d’automne) / 2023    
 - **Logiciels ou techniques utilisées:** Adobe Photoshop - art vectoriel  
-- **Catégorie du projet:**      
-- **Description courte du projet (Résumé en 1 phrase):**     
-- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
-- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
+- **Catégorie du projet:** Illustration numérique / Motion design     
+- **Description courte du projet (Résumé en 1 phrase):** Création d'un générique de film fictif de 12 planches illustrant le parcours narratif d'un chanteur de reggaeton originaire de la ville de Medellín, Colombie.     
+- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** L'objectif était d'abord de rédiger un synopsis et un moodboard avec une palette de couleurs et un seul choix de police pour définir la direction artistique. À partir de cette histoire, il fallait ensuite attribuer des rôles fictifs sur chaque visuel pour créer un générique de film en 12 planches, le tout présenté sous forme de vidéo accompagnée d'une bande sonore.     
+- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** J'ai conçu l'histoire de « Menkris », un artiste de reggaeton dont le nom vient de mes initiales et dont la carrière est interrompue après son emprisonnement, en m'inspirant d'Anuel AA et en situant l'action à Medellín, une ville de mon pays d'origine. Sur Adobe Photoshop, j'ai illustré les 12 planches sous forme de scénarimage vectoriel aux couleurs pâles et aux contrastes marqués pour retracer son évolution, de son ascension à la prison jusqu'à son retour glorieux.
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
 <p align="center">
   <img src="docs/images/generique/Moodboard_generique.jpg" width="300">
@@ -123,13 +123,17 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
   - Jonathan Crevier
   - Mohamed Sadki
   - Jad Saloumi    
-- **Votre ou vos rôle(s) dans le projet:**
+- **Votre ou vos rôle(s) dans le projet:** Modélisateurs 3D / Concepteurs d'environnement
+  - Cristian Mendoza (Feu de circulation, porte, toilette)
+  - Jonathan Crevier (Étagère, sculpture, lampe)
+  - Mohamed Sadki (Bouteilles, sofa, plante)
+  - Jad Saloumi (Lit, œil décoratif, structure de la chambre)
 - **Période/Année de création:** 02 octobre au 06 novembre (Session d’automne) / 2024   
-- **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 et Microsoft PowerPoint v16.88.1 - 
-- **Catégorie du projet:**      
-- **Description courte du projet (Résumé en 1 phrase):**     
-- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
-- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
+- **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 - Unity v2022.3.62f3 & Microsoft PowerPoint v16.88.1
+- **Catégorie du projet:** Modélisation 3D / Conception d'environnement / Art 3D     
+- **Description courte du projet (Résumé en 1 phrase):** Conception collaborative d’un environnement intérieur 3D irréel et humoristique où des objets du quotidien sont détournés de leur fonction initiale.     
+- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** L'enseignante demandait de concevoir en équipe une scène 3D originale et surréaliste composée d'au moins trois objets modélisés par personne. Le projet exigeait d'élaborer une présentation de concept (moodboards, esquisse globale, montage 2D, rendus), de modéliser l'ensemble des éléments, puis d'importer le tout dans le moteur Unity pour configurer l'éclairage, les caméras et générer les rendus finaux.    
+- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** J'ai modélisé un feu de circulation, une porte futuriste et une toilette faisant office de table de nuit dans Autodesk Maya, tout en participant au moodboard collectif et à l'esquisse de la pièce. J'ai ensuite collaboré à l'intégration de la scène dans Unity pour configurer l'éclairage, cadrer les caméras et produire les rendus finaux.   
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
 <p align="center">
   <img src="docs/images/chambre_farfelue/Moodboard_chambre.png" width="300">
@@ -143,7 +147,24 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
   <img src="docs/images/chambre_farfelue/piece_vue_zoom_camera_gauche_rendu.jpg" width="300">
   <img src="docs/images/chambre_farfelue/piece_vue_zoom_front_camera_rendu.jpg" width="300">
   <img src="docs/images/chambre_farfelue/piece_front_rendu.jpg" width="300">
-</p>   
+</p>
+
+# ***Processus de création « Chambre farfelue »***
+
+- **Étape 1 : Recherche d'idées et direction artistique (Moodboards)**:
+Pour lancer le projet, nous avons défini l'univers visuel de notre “Chambre farfelue” en créant un moodboard global pour établir la base du style. Chacun a ensuite fait des recherches et conçu des moodboards individuels pour ses objets assignés.
+
+- **Étape 2 : Esquisse globale et présentation de concept (PowerPoint)**:
+Avant de toucher au logiciel 3D, on a fait un croquis 2D de la chambre pour placer nos 12 objets et bien structurer l'espace. On a ensuite tout regroupé dans une présentation PowerPoint avec nos moodboards pour présenter le concept à la prof et faire valider notre direction artistique.
+
+- **Étape 3 : Modélisation 3D individuelle dans Autodesk Maya**:
+Nous nous sommes ensuite réparti la modélisation des assets sous Autodesk Maya. Pour ma part, j'ai modélisé trois éléments centraux du décor : le feu de circulation suspendu, la porte futuriste ainsi que la toilette détournée en table de nuit, en veillant à respecter le niveau de détail et la géométrie demandés.
+
+- **Étape 4 : Assemblage et préparation de la scène**:
+Une fois nos modèles 3D terminés, nous avons rassemblé tous nos éléments afin de vérifier l'assemblage global de la chambre, corriger les proportions entre les objets et nous assurer que la scène était prête pour l'exportation vers le moteur de rendu.
+
+- **Étape 5 : Intégration, éclairage et cadrage dans Unity**:
+Enfin, nous avons configuré l'éclairage, les caméras et les paramètres de rendu dans Unity pour produire les images finales en haute définition.
 
 # ***Projet 4***
 - **Nom de votre projet:** « Noctar »    
@@ -151,13 +172,13 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Réalisé dans le cadre du cours:** Modélisation 3D     
 - **Individuel ou en équipe:** Individuel    
 - **Nom de vos coéquipiers:** Aucun    
-- **Votre ou vos rôle(s) dans le projet:**
+- **Votre ou vos rôle(s) dans le projet:** Modélisateur 3D / Concept Artist / Artiste 3D
 - **Période/Année de création:** 20 novembre au 04 décembre (Session d’automne) / 2024   
-- **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 et Microsoft PowerPoint v16.88.1 -   
-- **Catégorie du projet:**      
-- **Description courte du projet (Résumé en 1 phrase):**     
-- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
-- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
+- **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 - Unity v2022.3.62f3 & Microsoft PowerPoint v16.88.1   
+- **Catégorie du projet:** Modélisation 3D / Conception de personnage / Character Design 3D     
+- **Description courte du projet (Résumé en 1 phrase):** Conception et modélisation de « Noctar »,un personnage animalier humanisé aux formes arrondies et aux couleurs hivernales, au cœur d'un univers fantastique.     
+- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait de concevoir un personnage original non réaliste à partir d'un univers librement choisi et de le préparer avec un squelette 3D (rig/skinning) afin de pouvoir le positionner. Le projet exigeait de présenter le concept via une planche de références (moodboard), de modéliser le personnage en T-pose, puis de configurer l'éclairage et les caméras dans le moteur Unity pour produire un rendu final dans une pose dynamique.    
+- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** J'ai élaboré le moodboard, le synopsis et l'univers du personnage sur PowerPoint en misant sur des formes arrondies, une palette pastel et une ambiance hivernale. J'ai ensuite modélisé Nectar sous Maya, configuré son rig et son skinning pour le placer dans une posture expressive, puis ajusté l'éclairage dans Unity pour créer un effet plastique et glacé sur les rendus finaux.    
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
   <p align="center">
   <img src="docs/images/noctar/Moodboard_noctar.png" width="300">
@@ -234,8 +255,27 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
-[▶️ Voir la vidéo](docs/videos/animation_generative/animation_generative_3d.mp4)       
-
+[▶️ Voir la vidéo](docs/videos/animation_generative/animation_generative_3d.mp4)
+<p align="center">
+  <img src="docs/images/animation_generative/image_01.png" width="300">
+  <img src="docs/images/animation_generative/image_02.png" width="300">
+  <img src="docs/images/animation_generative/image_03.png" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/animation_generative/image_04.png" width="300">
+  <img src="docs/images/animation_generative/image_05.png" width="300">
+  <img src="docs/images/animation_generative/image_06.png" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/animation_generative/image_07.png" width="300">
+  <img src="docs/images/animation_generative/image_08.png" width="300">
+  <img src="docs/images/animation_generative/image_09.png" width="300">
+</p>
+<p align="center">
+  <img src="docs/images/animation_generative/image_10.png" width="300">
+  <img src="docs/images/animation_generative/image_11.png" width="300">
+  <img src="docs/images/animation_generative/image_12.png" width="300">
+</p>
 
 # ***Processus de création***
 - **Sélectionnez un de vos projets et insérez son processus de création. À l'aide d'images et de texte vous devez nous expliquer le processus de création étape par étape de votre projet.**
