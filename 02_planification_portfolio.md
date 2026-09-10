@@ -51,13 +51,13 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Réalisé dans le cadre du cours:** Illustration numérique    
 - **Individuel ou en équipe:** Individuel     
 - **Nom de vos coéquipiers:** Aucun     
-- **Votre ou vos rôle(s) dans le projet:**
+- **Votre ou vos rôle(s) dans le projet:** Illustrateur / Designer graphique
 - **Période/Année de création:** 29 août au 31 octobre (Session d’automne) / 2023   
-- **Logiciels ou techniques utilisées:** Adobe Photoshop - art vectoriel  
-- **Catégorie du projet:**      
-- **Description courte du projet (Résumé en 1 phrase):**     
-- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
-- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**    
+- **Logiciels ou techniques utilisées:** Adobe Photoshop - Art vectoriel  
+- **Catégorie du projet:** Illustration numérique / Art vectoriel      
+- **Description courte du projet (Résumé en 1 phrase):** Création d'un autoportrait en art vectoriel où je présente mon univers et ma personnalité à travers mes passions, ma musique et mon quotidien.    
+- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait de concevoir deux moodboards de recherche d'inspiration, intégrant des artistes de référence, des palettes de couleurs et des images de style. L'objectif était ensuite d'utiliser ces recherches pour concevoir un autoportrait personnalisé accompagné de notre propre signature visuelle.    
+- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** À l'aide de couleurs vives et de contrastes sur Adobe Photoshop, j'ai créé une série d'illustrations vectorielles représentant des éléments clés de ma vie comme toute ma première auto, mon Setup DJ, le ski, le soccer, Montréal et le chanteur Feid. J'ai ensuite réuni toutes ces pièces pour composer mon autoportrait et mon identité visuelle.   
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
 <p align="center">
   <img src="docs/images/autoportrait/Moodboard_autoportrait.jpg" width="300">
