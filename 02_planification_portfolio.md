@@ -129,7 +129,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
   - Mohamed Sadki (Bouteilles, sofa, plante)
   - Jad Saloumi (Lit, œil décoratif, structure de la chambre)
 - **Période/Année de création:** 02 octobre au 06 novembre (Session d’automne) / 2024   
-- **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 et Microsoft PowerPoint v16.88.1 - 
+- **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 - Unity v2022.3.62f3 & Microsoft PowerPoint v16.88.1
 - **Catégorie du projet:** Modélisation 3D / Conception d'environnement / Art 3D     
 - **Description courte du projet (Résumé en 1 phrase):** Conception collaborative d’un environnement intérieur 3D irréel et humoristique où des objets du quotidien sont détournés de leur fonction initiale.     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** L'enseignante demandait de concevoir en équipe une scène 3D originale et surréaliste composée d'au moins trois objets modélisés par personne. Le projet exigeait d'élaborer une présentation de concept (moodboards, esquisse globale, montage 2D, rendus), de modéliser l'ensemble des éléments, puis d'importer le tout dans le moteur Unity pour configurer l'éclairage, les caméras et générer les rendus finaux.    
