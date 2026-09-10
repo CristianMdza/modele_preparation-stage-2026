@@ -201,12 +201,12 @@ Enfin, nous avons configuré l'éclairage, les caméras et les paramètres de re
 - **Réalisé dans le cadre du cours:** Animation 3D       
 - **Individuel ou en équipe:** Individuel    
 - **Nom de vos coéquipiers:** Aucun     
-- **Votre ou vos rôle(s) dans le projet:**
+- **Votre ou vos rôle(s) dans le projet:** Modélisateur 3D / Animateur 3D / Monteur vidéo / Artiste 3D
 - **Période/Année de création:** 13 février au 8 mai (Session d’hiver) / 2025    
 - **Logiciels ou techniques utilisées:**  Autodesk Maya v2023.3.1 - DaVinci Resolve v18.6 - Microsoft PowerPoint v16.88.1  
-- **Catégorie du projet:**      
-- **Description courte du projet (Résumé en 1 phrase):**     
-- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
+- **Catégorie du projet:** Animation 3D / Conception d'environnement / Art numérique / Montage vidéo     
+- **Description courte du projet (Résumé en 1 phrase):** Création et animation 3D d'un paysage fantastique et mystique au style cartoon, composé de lotus, de sphères suspendues et d'escaliers célestes pour évoquer un paradis imaginaire entre rêve et réalité.    
+- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait d'élaborer un environnement 3D complet à partir d'un concept original, incluant la recherche visuelle, la scénarisation, la modélisation et l'animation des éléments sous Maya. Il fallait ensuite exporter les séquences, configurer les caméras et réaliser le montage vidéo final dans DaVinci Resolve avec une bande sonore synchronisée.    
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
 [▶️ Voir la vidéo](docs/images/etrange_paradis_emergent/etrange_paradis_emergent.mp4)
