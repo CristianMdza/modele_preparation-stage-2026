@@ -242,18 +242,18 @@ Enfin, nous avons configuré l'éclairage, les caméras et les paramètres de re
 </p>
 
 # ***Projet 6 (Optionnel)***
-- **Nom de votre projet:** Animation générative     
+- **Nom de votre projet:** « Animation générative »   
 - **Mention académique ou personnel:** Académique    
 - **Réalisé dans le cadre du cours:** Animation 3D       
 - **Individuel ou en équipe:** Individuel     
 - **Nom de vos coéquipiers:** Aucun     
-- **Votre ou vos rôle(s) dans le projet:**
+- **Votre ou vos rôle(s) dans le projet:** Animateur 3D / Graphiste 3D / Artiste numérique
 - **Période/Année de création:** 17 février au 11 mars (Session d’hiver) / 2025    
-- **Logiciels ou techniques utilisées:**    
-- **Catégorie du projet:**      
-- **Description courte du projet (Résumé en 1 phrase):**     
-- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):**     
-- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):**     
+- **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 - DaVinci Resolve v18.6  
+- **Catégorie du projet:** Animation 3D / Animation générative / Graphisme motion 3D  
+- **Description courte du projet (Résumé en 1 phrase):** Création d'une animation générative 3D de 10 secondes au style rétrofuturiste mettant en scène la transformation du logo « Kris Musik » au rythme de la musique Afrohouse.    
+- **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait de concevoir une animation générative de 10 secondes à 24 images par seconde en utilisant obligatoirement un système procédural sous Maya comme « MASH ». Il fallait travailler les matériaux, l'éclairage et le mouvement de la caméra en un seul plan-séquence, puis faire le rendu final sans utiliser de ciel physique de base.    
+- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** J'ai utilisé le système « MASH » dans Maya avec des nœuds comme « Replicator », « Audio » et « Random » pour animer automatiquement des cubes et révéler mon logo « Kris Musik » synchronisé avec du son. J'ai aussi créé un décor rétrofuturiste composé d'un sol en grille néon et d'ondes sonores en arrière-plan, puis j'ai réalisé le rendu final et le montage du plan-séquence sous DaVinci Resolve.     
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
 [▶️ Voir la vidéo](docs/videos/animation_generative/animation_generative_3d.mp4)
 <p align="center">
