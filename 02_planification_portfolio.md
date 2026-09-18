@@ -209,7 +209,7 @@ Enfin, nous avons configuré l'éclairage, les caméras et les paramètres de re
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait d'élaborer un environnement 3D complet à partir d'un concept original, incluant la recherche visuelle, la scénarisation, la modélisation et l'animation des éléments sous Maya. Il fallait ensuite exporter les séquences, configurer les caméras et réaliser le montage vidéo final dans DaVinci Resolve avec une bande sonore synchronisée.    
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** J'ai d'abord établi un plan de travail pour organiser l'échéancier du projet. Ensuite, j'ai commencé par créer le concept sur PowerPoint avec le synopsis, le scénarimage et le style visuel basé sur un look minimaliste et des tons vert pâle. J'ai ensuite modélisé et animé les éléments dans Maya (lotus, sphères suspendues, escaliers), puis j'ai réalisé le montage vidéo final et l'ambiance sonore  dans DaVinci Resolve.    
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
-[▶️ Voir la vidéo](docs/images/etrange_paradis_emergent/etrange_paradis_emergent.mp4)
+[▶️ Télécharger et voir la vidéo](docs/videos/etrange_paradis_emergent/etrange_paradis_emergent.mp4)
 <p align="center">
   <img src="docs/images/etrange_paradis_emergent/image_01.jpg" width="300">
   <img src="docs/images/etrange_paradis_emergent/image_02.jpg" width="300">
@@ -255,7 +255,9 @@ Enfin, nous avons configuré l'éclairage, les caméras et les paramètres de re
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait de concevoir une animation générative de 10 secondes à 24 images par seconde en utilisant obligatoirement un système procédural sous Maya comme « MASH ». Il fallait travailler les matériaux, l'éclairage et le mouvement de la caméra en un seul plan-séquence, puis faire le rendu final sans utiliser de ciel physique de base.    
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** J'ai utilisé le système « MASH » dans Maya avec des nœuds comme « Replicator », « Audio » et « Random » pour animer automatiquement des cubes et révéler mon logo « Kris Musik » synchronisé avec du son. J'ai aussi créé un décor rétrofuturiste composé d'un sol en grille néon et d'ondes sonores en arrière-plan, puis j'ai réalisé le rendu final et le montage du plan-séquence sous DaVinci Resolve.     
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
-[▶️ Voir la vidéo](docs/videos/animation_generative/animation_generative_3d.mp4)
+[▶️ Télécharger et voir la vidéo](docs/videos/animation_generative/animation_generative_3d.mp4)
+- **Crédit audio :** « Famax » – Raffa Guido (Afro House) – Usage non commercial
+
 <p align="center">
   <img src="docs/images/animation_generative/image_01.png" width="300">
   <img src="docs/images/animation_generative/image_02.png" width="300">
