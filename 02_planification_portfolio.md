@@ -9,12 +9,14 @@ Cochez les compétences que vous aimeriez utiliser en stage. Ajoutez-en au besoi
 - [ ] Exploiter les nouvelles technologies et leur potentiel créateur    
 - [ ] Penser et optimiser l’expérience utilisateur    
 - [x] Créer des univers immersifs et interactifs    
-- [x] Collaborer avec diverses disciplines artistiques ou interdisciplinaires    
+- [ ] Collaborer avec diverses disciplines artistiques ou interdisciplinaires    
 
 
 # ***Logiciels*** 
 Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:     
 - [ ] Visual Studio Code
+- [x] Godot
+- [x] Figma
 - [x] Photoshop
 - [x] Illustrator
 - [ ] Lightroom
@@ -29,7 +31,7 @@ Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 - [ ] Max
 - [ ] Arduino
 - [ ] MadMapper
-- [x] Microsoft Teams
+- [ ] Microsoft Teams
 
 # ***Langage de programmation***
 Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:    
