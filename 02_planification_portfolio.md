@@ -55,7 +55,8 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Nom de vos coéquipiers:** Aucun     
 - **Votre ou vos rôle(s) dans le projet:** Illustrateur / Designer graphique
 - **Période/Année de création:** 29 août au 31 octobre (Session d’automne) / 2023   
-- **Logiciels ou techniques utilisées:** Adobe Photoshop - Art vectoriel  
+- **Logiciels ou techniques utilisées:** Adobe Photoshop - Art vectoriel
+- **Format:** 1920 x 1080  
 - **Catégorie du projet:** Illustration numérique / Art vectoriel      
 - **Description courte du projet (Résumé en 1 phrase):** Création d'un autoportrait en art vectoriel où je présente mon univers et ma personnalité à travers mes passions, ma musique et mon quotidien.    
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait de concevoir deux moodboards de recherche d'inspiration, intégrant des artistes de référence, des palettes de couleurs et des images de style. L'objectif était ensuite d'utiliser ces recherches pour concevoir un autoportrait personnalisé accompagné de notre propre signature visuelle.    
@@ -85,8 +86,10 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Nom de vos coéquipiers:** Aucun     
 - **Votre ou vos rôle(s) dans le projet:** Illustrateur / Designer graphique
 - **Période/Année de création:** 07 novembre au 05 décembre (Session d’automne) / 2023    
-- **Logiciels ou techniques utilisées:** Adobe Photoshop - art vectoriel  
-- **Catégorie du projet:** Illustration numérique / Motion design     
+- **Logiciels ou techniques utilisées:** Adobe Photoshop - art vectoriel
+- **Format:** 1920 x 1080  
+- **Catégorie du projet:** Illustration numérique / Motion design
+- **Synopsis:** Menkris, de son vrai nom Kristopher Mendez, un jeune chanteur talentueux de vingt ans, né en dans la ville de Medellín-Colombie. Son intérêt pour la musique vient de son père Michael (quarante-cinq ans), qui était musicien dans un groupe de salsa. Menkris a commencé sa carrière musicale avec succès en compagnie d’autres collègues du genre, attirant l’attention avec son style unique dans le reggaeton. Cependant, sa montée a été interrompue trois ans après par un emprisonnement pour détention illégale d’armes. Durant sa détention, il a continué à créer de la musique, ce qui a contribué à entretenir son statut d’artiste émergent. Sa libération, deux ans après, a marqué un retour victorieux, propulsant Menkris vers une célébrité mondiale. Depuis lors, il a poursuivi sa progression en publiant des albums acclamés et en collaborant avec des icônes de l’industrie musicale, consolidant sa place en tant que figure influente du reggaeton contemporain (pop - latin).     
 - **Description courte du projet (Résumé en 1 phrase):** Création d'un générique de film fictif de 12 planches illustrant le parcours narratif d'un chanteur de reggaeton originaire de la ville de Medellín, Colombie.     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** L'objectif était d'abord de rédiger un synopsis et un moodboard avec une palette de couleurs et un seul choix de police pour définir la direction artistique. À partir de cette histoire, il fallait ensuite attribuer des rôles fictifs sur chaque visuel pour créer un générique de film en 12 planches, le tout présenté sous forme de vidéo accompagnée d'une bande sonore.     
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** J'ai conçu l'histoire de « Menkris », un artiste de reggaeton dont le nom vient de mes initiales et dont la carrière est interrompue après son emprisonnement, en m'inspirant d'Anuel AA et en situant l'action à Medellín, une ville de mon pays d'origine. Sur Adobe Photoshop, j'ai illustré les 12 planches sous forme de scénarimage vectoriel aux couleurs pâles et aux contrastes marqués pour retracer son évolution, de son ascension à la prison jusqu'à son retour glorieux.
@@ -132,6 +135,7 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
   - Jad Saloumi (Lit, œil décoratif, structure de la chambre)
 - **Période/Année de création:** 02 octobre au 06 novembre (Session d’automne) / 2024   
 - **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 - Unity v2022.3.62f3 & Microsoft PowerPoint v16.88.1
+- **Format:** 1920 x 1080
 - **Catégorie du projet:** Modélisation 3D / Conception d'environnement / Art 3D     
 - **Description courte du projet (Résumé en 1 phrase):** Conception collaborative d’un environnement intérieur 3D irréel et humoristique où des objets du quotidien sont détournés de leur fonction initiale.     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** L'enseignante demandait de concevoir en équipe une scène 3D originale et surréaliste composée d'au moins trois objets modélisés par personne. Le projet exigeait d'élaborer une présentation de concept (moodboards, esquisse globale, montage 2D, rendus), de modéliser l'ensemble des éléments, puis d'importer le tout dans le moteur Unity pour configurer l'éclairage, les caméras et générer les rendus finaux.    
@@ -176,8 +180,10 @@ Enfin, nous avons configuré l'éclairage, les caméras et les paramètres de re
 - **Nom de vos coéquipiers:** Aucun    
 - **Votre ou vos rôle(s) dans le projet:** Modélisateur 3D / Concept Artist / Artiste 3D
 - **Période/Année de création:** 20 novembre au 04 décembre (Session d’automne) / 2024   
-- **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 - Unity v2022.3.62f3 & Microsoft PowerPoint v16.88.1   
-- **Catégorie du projet:** Modélisation 3D / Conception de personnage / Character Design 3D     
+- **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 - Unity v2022.3.62f3 & Microsoft PowerPoint v16.88.1
+- **Format:** 1920 x 1080   
+- **Catégorie du projet:** Modélisation 3D / Conception de personnage / Character Design 3D
+- **Synopsis:** Noctar, un loup imposant, habite dans un univers hivernal. Là, il découvre un portail. En le traversant, il acquiert des caractéristiques humaines, transformant son corps et son esprit, entre instincts animaux et pensées humaines.    
 - **Description courte du projet (Résumé en 1 phrase):** Conception et modélisation de « Noctar »,un personnage animalier humanisé aux formes arrondies et aux couleurs hivernales, au cœur d'un univers fantastique.     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait de concevoir un personnage original non réaliste à partir d'un univers librement choisi et de le préparer avec un squelette 3D (rig/skinning) afin de pouvoir le positionner. Le projet exigeait de présenter le concept via une planche de références (moodboard), de modéliser le personnage en T-pose, puis de configurer l'éclairage et les caméras dans le moteur Unity pour produire un rendu final dans une pose dynamique.    
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** J'ai élaboré le moodboard, le synopsis et l'univers du personnage sur PowerPoint en misant sur des formes arrondies, une palette pastel et une ambiance hivernale. J'ai ensuite modélisé Nectar sous Maya, configuré son rig et son skinning pour le placer dans une posture expressive, puis ajusté l'éclairage dans Unity pour créer un effet plastique et glacé sur les rendus finaux.    
@@ -205,8 +211,10 @@ Enfin, nous avons configuré l'éclairage, les caméras et les paramètres de re
 - **Nom de vos coéquipiers:** Aucun     
 - **Votre ou vos rôle(s) dans le projet:** Modélisateur 3D / Animateur 3D / Monteur vidéo / Artiste 3D
 - **Période/Année de création:** 13 février au 8 mai (Session d’hiver) / 2025    
-- **Logiciels ou techniques utilisées:**  Autodesk Maya v2023.3.1 - DaVinci Resolve v18.6 - Microsoft PowerPoint v16.88.1  
-- **Catégorie du projet:** Animation 3D / Conception d'environnement / Art numérique / Montage vidéo     
+- **Logiciels ou techniques utilisées:**  Autodesk Maya v2023.3.1 - DaVinci Resolve v18.6 - Microsoft PowerPoint v16.88.1
+- **Format:** 1920 x 1080  
+- **Catégorie du projet:** Animation 3D / Conception d'environnement / Art numérique / Montage vidéo
+- **Synopsis:** Dans un monde suspendu entre rêve et réalité, se trouve un paradis d'immenses colonnes qui émergent du lac, portant des lotus magiques. Au cœur de chaque fleur se révèlent des sphères cristallines et translucides. Lorsque leurs pétales s’écartent avec douceur, les sphères s’élèvent et flottent dans l'air avec une légèreté divine, reflétant le paysage, avant de redescendre doucement pour regagner le cœur des fleurs. Des escaliers courbes et en spirale prennent vie tour à tour, voyageant du ciel à la terre puis de la montagne aux nuages, avant de retourner leur lieu de naissance où le temps semble s'arrêter. Ce paradis est baigné de verts apaisants, en invitant à une renaissance mystique.
 - **Description courte du projet (Résumé en 1 phrase):** Création et animation 3D d'un paysage fantastique et mystique au style cartoon, composé de lotus, de sphères suspendues et d'escaliers célestes pour évoquer un paradis imaginaire entre rêve et réalité.    
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait d'élaborer un environnement 3D complet à partir d'un concept original, incluant la recherche visuelle, la scénarisation, la modélisation et l'animation des éléments sous Maya. Il fallait ensuite exporter les séquences, configurer les caméras et réaliser le montage vidéo final dans DaVinci Resolve avec une bande sonore synchronisée.    
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** J'ai d'abord établi un plan de travail pour organiser l'échéancier du projet. Ensuite, j'ai commencé par créer le concept sur PowerPoint avec le synopsis, le scénarimage et le style visuel basé sur un look minimaliste et des tons vert pâle. J'ai ensuite modélisé et animé les éléments dans Maya (lotus, sphères suspendues, escaliers), puis j'ai réalisé le montage vidéo final et l'ambiance sonore  dans DaVinci Resolve.    
@@ -251,7 +259,8 @@ Enfin, nous avons configuré l'éclairage, les caméras et les paramètres de re
 - **Nom de vos coéquipiers:** Aucun     
 - **Votre ou vos rôle(s) dans le projet:** Animateur 3D / Graphiste 3D / Artiste numérique
 - **Période/Année de création:** 17 février au 11 mars (Session d’hiver) / 2025    
-- **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 - DaVinci Resolve v18.6  
+- **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 - DaVinci Resolve v18.6
+- **Format:** 1920 x 1080  
 - **Catégorie du projet:** Animation 3D / Animation générative / Graphisme motion 3D  
 - **Description courte du projet (Résumé en 1 phrase):** Création d'une animation générative 3D de 10 secondes au style rétrofuturiste mettant en scène la transformation du logo « Kris Musik » au rythme de la musique Afrohouse.    
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait de concevoir une animation générative de 10 secondes à 24 images par seconde en utilisant obligatoirement un système procédural sous Maya comme « MASH ». Il fallait travailler les matériaux, l'éclairage et le mouvement de la caméra en un seul plan-séquence, puis faire le rendu final sans utiliser de ciel physique de base.    
