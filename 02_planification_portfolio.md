@@ -53,14 +53,14 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Réalisé dans le cadre du cours:** Illustration numérique    
 - **Individuel ou en équipe:** Individuel     
 - **Nom de vos coéquipiers:** Aucun     
-- **Votre ou vos rôle(s) dans le projet:** Illustrateur / Designer graphique
+- **Votre ou vos rôle(s) dans le projet:** Illustrateur
 - **Période/Année de création:** 29 août au 31 octobre (Session d’automne) / 2023   
 - **Logiciels ou techniques utilisées:** Adobe Photoshop - Art vectoriel
 - **Format:** 1920 x 1080  
-- **Catégorie du projet:** Illustration numérique / Art vectoriel      
+- **Catégorie du projet:** Illustration numérique    
 - **Description courte du projet (Résumé en 1 phrase):** Création d'un autoportrait en art vectoriel où je présente mon univers et ma personnalité à travers mes passions, ma musique et mon quotidien.    
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait de concevoir deux moodboards de recherche d'inspiration, intégrant des artistes de référence, des palettes de couleurs et des images de style. L'objectif était ensuite d'utiliser ces recherches pour concevoir un autoportrait personnalisé accompagné de notre propre signature visuelle.    
-- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** À l'aide de couleurs vives et de contrastes sur Adobe Photoshop, j'ai créé une série d'illustrations vectorielles représentant des éléments clés de ma vie comme toute ma première auto, mon Setup DJ, le ski, le soccer, Montréal et le chanteur Feid. J'ai ensuite réuni toutes ces pièces pour composer mon autoportrait et mon identité visuelle.   
+- **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** À l'aide de couleurs vives et de contrastes sur Adobe Photoshop, j'ai créé une série d'illustrations vectorielles représentant des éléments clés de ma vie comme ma première voiture, mon Setup DJ, le ski, le soccer, Montréal et le chanteur Feid. J'ai ensuite réuni toutes ces pièces pour composer mon autoportrait et mon identité visuelle.   
 - **Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):**
 <p align="center">
   <img src="docs/images/autoportrait/Moodboard_autoportrait.jpg" width="300">
@@ -84,11 +84,11 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Réalisé dans le cadre du cours:** Illustration numérique      
 - **Individuel ou en équipe:** Individuel   
 - **Nom de vos coéquipiers:** Aucun     
-- **Votre ou vos rôle(s) dans le projet:** Illustrateur / Designer graphique
+- **Votre ou vos rôle(s) dans le projet:** Illustrateur
 - **Période/Année de création:** 07 novembre au 05 décembre (Session d’automne) / 2023    
 - **Logiciels ou techniques utilisées:** Adobe Photoshop - art vectoriel
 - **Format:** 1920 x 1080  
-- **Catégorie du projet:** Illustration numérique / Motion design
+- **Catégorie du projet:** Illustration numérique 
 - **Synopsis:** Menkris, de son vrai nom Kristopher Mendez, un jeune chanteur talentueux de vingt ans, né dans la ville de Medellin-Colombie. Son intérêt pour la musique vient de son père Michael (quarante-cinq ans), qui était musicien dans un groupe de salsa. Menkris a commencé sa carrière musicale avec succès en compagnie d’autres collègues du genre, attirant l’attention avec son style unique dans le reggaeton. Cependant, sa montée a été interrompue trois ans après par un emprisonnement pour détention illégale d’armes. Durant sa détention, il a continué à créer de la musique, ce qui a contribué à entretenir son statut d’artiste émergent. Sa libération, deux ans après, a marqué un retour victorieux, propulsant Menkris vers une célébrité mondiale. Depuis lors, il a poursuivi sa progression en publiant des albums acclamés et en collaborant avec des icônes de l’industrie musicale, consolidant sa place en tant que figure influente du reggaeton contemporain (pop latin).     
 - **Description courte du projet (Résumé en 1 phrase):** Création d'un générique de film fictif de 12 planches illustrant le parcours narratif d'un chanteur de reggaeton originaire de la ville de Medellín, Colombie.     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** L'objectif était d'abord de rédiger un synopsis et un moodboard avec une palette de couleurs et un seul choix de police pour définir la direction artistique. À partir de cette histoire, il fallait ensuite attribuer des rôles fictifs sur chaque visuel pour créer un générique de film en 12 planches, le tout présenté sous forme de vidéo accompagnée d'une bande sonore.     
@@ -126,17 +126,17 @@ Je souhaite obtenir un poste de créateur multimédia junior dans le domaine de 
 - **Nom de vos coéquipiers:**
   - Cristian Mendoza
   - Jonathan Crevier
-  - Mohamed Sadki
-  - Jad Saloumi    
-- **Votre ou vos rôle(s) dans le projet:** Modélisateurs 3D / Concepteurs d'environnement
+  - Jad Saloumi 
+  - Mohamed Ali 
+- **Votre ou vos rôle(s) dans le projet:** Modélisateur(s) 3D
   - Cristian Mendoza (Feu de circulation, porte, toilette)
-  - Jonathan Crevier (Étagère, sculpture, lampe)
-  - Mohamed Sadki (Bouteilles, sofa, plante)
-  - Jad Saloumi (Lit, œil décoratif, structure de la chambre)
+  - Jonathan Crevier (Étagère, Sculpture, Lampe)
+  - Jad Saloumi (Bouteilles, Sofa, Plante)
+  - Mohamed Ali (Lit, Oeil, Pièce)
 - **Période/Année de création:** 02 octobre au 06 novembre (Session d’automne) / 2024   
 - **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 - Unity v2022.3.62f3 & Microsoft PowerPoint v16.88.1
 - **Format:** 1920 x 1080
-- **Catégorie du projet:** Modélisation 3D / Conception d'environnement / Art 3D     
+- **Catégorie du projet:** Modélisation 3D  
 - **Description courte du projet (Résumé en 1 phrase):** Conception collaborative d’un environnement intérieur 3D irréel et humoristique où des objets du quotidien sont détournés de leur fonction initiale.     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** L'enseignante demandait de concevoir en équipe une scène 3D originale et surréaliste composée d'au moins trois objets modélisés par personne. Le projet exigeait d'élaborer une présentation de concept (moodboards, esquisse globale, montage 2D, rendus), de modéliser l'ensemble des éléments, puis d'importer le tout dans le moteur Unity pour configurer l'éclairage, les caméras et générer les rendus finaux.    
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** J'ai modélisé un feu de circulation, une porte futuriste et une toilette faisant office de table de nuit dans Autodesk Maya, tout en participant au moodboard collectif et à l'esquisse de la pièce. J'ai ensuite collaboré à l'intégration de la scène dans Unity pour configurer l'éclairage, cadrer les caméras et produire les rendus finaux.   
@@ -178,11 +178,11 @@ Enfin, nous avons configuré l'éclairage, les caméras et les paramètres de re
 - **Réalisé dans le cadre du cours:** Modélisation 3D     
 - **Individuel ou en équipe:** Individuel    
 - **Nom de vos coéquipiers:** Aucun    
-- **Votre ou vos rôle(s) dans le projet:** Modélisateur 3D / Concept Artist / Artiste 3D
+- **Votre ou vos rôle(s) dans le projet:** Modélisateur 3D 
 - **Période/Année de création:** 20 novembre au 04 décembre (Session d’automne) / 2024   
 - **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 - Unity v2022.3.62f3 & Microsoft PowerPoint v16.88.1
 - **Format:** 1920 x 1080   
-- **Catégorie du projet:** Modélisation 3D / Conception de personnage / Character Design 3D
+- **Catégorie du projet:** Modélisation 3D
 - **Synopsis:** Noctar, un loup imposant, habite dans un univers hivernal. Là, il découvre un portail. En le traversant, il acquiert des caractéristiques humaines, transformant son corps et son esprit, entre instincts animaux et pensées humaines.    
 - **Description courte du projet (Résumé en 1 phrase):** Conception et modélisation de « Noctar »,un personnage animalier humanisé aux formes arrondies et aux couleurs hivernales, au cœur d'un univers fantastique.     
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait de concevoir un personnage original non réaliste à partir d'un univers librement choisi et de le préparer avec un squelette 3D (rig/skinning) afin de pouvoir le positionner. Le projet exigeait de présenter le concept via une planche de références (moodboard), de modéliser le personnage en T-pose, puis de configurer l'éclairage et les caméras dans le moteur Unity pour produire un rendu final dans une pose dynamique.    
@@ -209,11 +209,11 @@ Enfin, nous avons configuré l'éclairage, les caméras et les paramètres de re
 - **Réalisé dans le cadre du cours:** Animation 3D       
 - **Individuel ou en équipe:** Individuel    
 - **Nom de vos coéquipiers:** Aucun     
-- **Votre ou vos rôle(s) dans le projet:** Modélisateur 3D / Animateur 3D / Monteur vidéo / Artiste 3D
+- **Votre ou vos rôle(s) dans le projet:** Animateur 3D
 - **Période/Année de création:** 13 février au 8 mai (Session d’hiver) / 2025    
 - **Logiciels ou techniques utilisées:**  Autodesk Maya v2023.3.1 - DaVinci Resolve v18.6 - Microsoft PowerPoint v16.88.1
 - **Format:** 1920 x 1080  
-- **Catégorie du projet:** Animation 3D / Conception d'environnement / Art numérique / Montage vidéo
+- **Catégorie du projet:** Animation 3D
 - **Synopsis:** Dans un monde suspendu entre rêve et réalité, se trouve un paradis d'immenses colonnes qui émergent du lac, portant des lotus magiques. Au cœur de chaque fleur se révèlent des sphères cristallines et translucides. Lorsque leurs pétales s’écartent avec douceur, les sphères s’élèvent et flottent dans l'air avec une légèreté divine, reflétant le paysage, avant de redescendre doucement pour regagner le cœur des fleurs. Des escaliers courbes et en spirale prennent vie tour à tour, voyageant du ciel à la terre puis de la montagne aux nuages, avant de retourner à leur lieu de naissance où le temps semble s'arrêter. Ce paradis est baigné de verts apaisants, en invitant à une renaissance mystique.
 - **Description courte du projet (Résumé en 1 phrase):** Création et animation 3D d'un paysage fantastique et mystique au style cartoon, composé de lotus, de sphères suspendues et d'escaliers célestes pour évoquer un paradis imaginaire entre rêve et réalité.    
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait d'élaborer un environnement 3D complet à partir d'un concept original, incluant la recherche visuelle, la scénarisation, la modélisation et l'animation des éléments sous Maya. Il fallait ensuite exporter les séquences, configurer les caméras et réaliser le montage vidéo final dans DaVinci Resolve avec une bande sonore synchronisée.    
@@ -257,11 +257,11 @@ Enfin, nous avons configuré l'éclairage, les caméras et les paramètres de re
 - **Réalisé dans le cadre du cours:** Animation 3D       
 - **Individuel ou en équipe:** Individuel     
 - **Nom de vos coéquipiers:** Aucun     
-- **Votre ou vos rôle(s) dans le projet:** Animateur 3D / Graphiste 3D / Artiste numérique
+- **Votre ou vos rôle(s) dans le projet:** Animateur 3D
 - **Période/Année de création:** 17 février au 11 mars (Session d’hiver) / 2025    
 - **Logiciels ou techniques utilisées:** Autodesk Maya v2023.3.1 - DaVinci Resolve v18.6
 - **Format:** 1920 x 1080  
-- **Catégorie du projet:** Animation 3D / Animation générative / Graphisme motion 3D  
+- **Catégorie du projet:** Animation 3D
 - **Description courte du projet (Résumé en 1 phrase):** Création d'une animation générative 3D de 10 secondes au style rétrofuturiste mettant en scène la transformation du logo « Kris Musik » au rythme de la musique Afrohouse.    
 - **Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):** Le projet demandait de concevoir une animation générative de 10 secondes à 24 images par seconde en utilisant obligatoirement un système procédural sous Maya comme « MASH ». Il fallait travailler les matériaux, l'éclairage et le mouvement de la caméra en un seul plan-séquence, puis faire le rendu final sans utiliser de ciel physique de base.    
 - **Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):** J'ai utilisé le système « MASH » dans Maya avec des nœuds comme « Replicator », « Audio » et « Random » pour animer automatiquement des cubes et révéler mon logo « Kris Musik » synchronisé avec du son. J'ai aussi créé un décor rétrofuturiste composé d'un sol en grille néon et d'ondes sonores en arrière-plan, puis j'ai réalisé le rendu final et le montage du plan-séquence sous DaVinci Resolve.     
